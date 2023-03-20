@@ -27,7 +27,7 @@ body {
 
 .card {
     height: 60%;
-    width: 25rem;
+    width: 24rem;
     background-color: hsl(0, 0%, 100%);
     display: flex;
     align-items: center;
